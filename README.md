@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ankit Raj aka @yoitsankey.
 - 👀 I’m interested in Everthing that include COMPUTERSSSSS!!!!!!!
+- AND, I LOVE LINUX.
 - 🌱 I’m currently learning SQL, Kotlin, Digital electronics, Linux and BCE.
 - 💞️ I’m looking to collaborate on Andriod Projects.
 - 📫 How to reach me :-

@@ -26,7 +26,7 @@ I'm a **Computer Science & Engineering student specializing in Cybersecurity** w
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-800080?style=for-the-badge&logo=security&logoColor=white)
 
 ## 🛡️ TryHackMe Progress
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/yoitsankey.png" alt="Your Image Badge" />
 
 ## 📌 Projects
 - 🔍 [**IP Address Finder using Bash**](https://github.com/yoitsankey/Linux_WorkSpace/blob/master/Bash_Scripting/ipextractor.sh)

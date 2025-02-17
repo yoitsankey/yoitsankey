@@ -12,6 +12,7 @@ I'm a **Computer Science & Engineering student specializing in Cybersecurity** w
 ---
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-blue?style=for-the-badge&logo=tryhackme)
+<img src="https://tryhackme-badges.s3.amazonaws.com/yoitsankey.png" alt="Your Image Badge" />
 
 ## 🚀 About Me
 - 🔐 Cybersecurity trainee at **PurpleSynapz**

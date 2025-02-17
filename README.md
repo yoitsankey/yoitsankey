@@ -11,6 +11,8 @@ I'm a **Computer Science & Engineering student specializing in Cybersecurity** w
 
 ---
 
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-blue?style=for-the-badge&logo=tryhackme)
+
 ## 🚀 About Me
 - 🔐 Cybersecurity trainee at **PurpleSynapz**
 - 🏴‍☠️ Ethical Hacking experience from **Acmegrade & Hackveda**

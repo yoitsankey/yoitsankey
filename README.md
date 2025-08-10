@@ -10,8 +10,9 @@ You can click the Preview link to take a look at your changes.
 I'm a **Computer Science & Engineering student specializing in Cybersecurity** with a passion for **network security, penetration testing, and digital forensics**. My journey in cybersecurity revolves around **identifying vulnerabilities, securing infrastructures, and continuous learning**.
 
 ## 🛡️ TryHackMe Progress
-- [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme)](https://tryhackme.com/p/yoitsankey)
-- ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/yoitsankey.png?timestamp=$(date+%s))
+- [![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme)](https://tryhackme.com/p/yoitsankey)  
+- ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/yoitsankey.png?nocache=true)
+
 
 
 
